@@ -19,4 +19,4 @@ Uma calculadora simples na web, desenvolvida no intuito de praticar : HTML5, CSS
 
 # ▶ Como acessar
 
-Acesse esse link : https://github.com/arthurruan01
+Acesse esse link : https://github.com/arthurruan01/calculadoraGLX
